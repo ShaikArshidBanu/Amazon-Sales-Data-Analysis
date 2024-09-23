@@ -22,6 +22,10 @@ The aim of this Power BI dashboard is to analyze and visualize comprehensive sal
 
 ### Dataset used: https://docs.google.com/spreadsheets/d/1uAQ6Zv4rhAQA3u5F5zyzQFyiT9OP0xBDVexa7jiZ4Ro/edit?usp=sharing 
 
+### Working of the project 
+https://github.com/user-attachments/assets/ba1f69c4-2c6d-4204-b26e-bdd3635bb1a2
+
+
 ### Snapshot of the Dashboard 
 ![Screenshot 2024-09-24 003559](https://github.com/user-attachments/assets/b71587e8-ea04-4097-8e94-66eae99cab83)
 
